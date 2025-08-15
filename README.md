@@ -24,5 +24,5 @@ To strengthen my understanding of **JavaScript basics** such as:
 
 ---
 
-## Purpose
+## 🎯 Purpose
 The goal of this repository is to practice and strengthen the basics of JavaScript by solving small, beginner-friendly coding problems. These programs help in understanding control structures, logical thinking, and problem-solving skills, which form the foundation for advanced JavaScript and frontend development.
