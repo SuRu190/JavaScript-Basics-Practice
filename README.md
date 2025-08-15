@@ -8,7 +8,7 @@ Each file is a small, self-contained program that can be run using Node.js in th
 ## ✅ Completed Tasks Structure
 
 Each task contains:
-- `script.js` – JavaScript
+- `script.js` – JavaScript File
 - `README.md` – Task description, concepts used, what I learned, and flow
 
 ---
