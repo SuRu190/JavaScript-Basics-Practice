@@ -9,7 +9,7 @@ Each file is a small, self-contained program that can be run using Node.js in th
 
 Each task contains:
 - `script.js` – JavaScript File
-- `README.md` – Task description, concepts used, what I learned, and flow
+- `README.md` – Task description, concepts used, code explanation
 
 ---
 
