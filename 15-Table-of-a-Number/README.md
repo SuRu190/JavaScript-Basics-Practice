@@ -23,7 +23,8 @@ Basic HTML structure to include the JavaScript file:
 </head>
 <body>
     <h1>Multiplication | JavaScript</h1>
-    <script src="index.js"></script>
+
+    <script src="script.js"></script>
 </body>
 </html>
 ```
