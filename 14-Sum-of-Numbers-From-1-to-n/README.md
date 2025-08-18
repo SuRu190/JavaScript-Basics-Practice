@@ -28,7 +28,7 @@ console.log("Sum is: " + sum);
 ```
 
 ### 🔹 Method 2 - Using Formula
-- Use the direct formula (𝑛×(𝑛+1))/2
+- Use the direct formula `(𝑛×(𝑛+1))/2`
 - No need to use a loop
 
 ```javascript
