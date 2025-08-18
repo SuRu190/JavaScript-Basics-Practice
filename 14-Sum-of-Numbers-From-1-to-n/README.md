@@ -9,10 +9,6 @@ Find the sum of all numbers from **1 to n** using two different methods:
 - Variables in JavaScript
 - Loops (`for`)
 - Arithmetic operators (`+`, `*`, `/`)
-- Formula for sum of first `n` natural numbers:  
-  \[
-  \text{Sum} = \frac{n \times (n+1)}{2}
-  \]
 - Console output (`console.log()`)
 
 ## 📘 Code Explanation
